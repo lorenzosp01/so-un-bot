@@ -1,5 +1,5 @@
 <pre>
-lass Monitor
+class Monitor
 InputReal x, y;
 OutputBoolean wy;
 Boolean wz;
